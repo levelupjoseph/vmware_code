@@ -2,7 +2,7 @@ certifi==2022.6.15
 cffi==1.15.1
 charset-normalizer==2.1.1
 cryptography==37.0.4
-idna==3.3
+idna==3.7
 lxml==4.9.1
 nsx-policy-python-sdk @ file://localhost//tmp/pip-req-build-lv0gh902/lib/nsx-policy-python-sdk/nsx_policy_python_sdk-4.0.0.0.0-py2.py3-none-any.whl
 nsx-python-sdk @ file://localhost//tmp/pip-req-build-lv0gh902/lib/nsx-python-sdk/nsx_python_sdk-4.0.0.0.0-py2.py3-none-any.whl
