@@ -13,7 +13,7 @@ pyOpenSSL==22.0.0
 pyvmomi==7.0.3
 requests==2.28.1
 six==1.16.0
-urllib3==1.26.12
+urllib3==1.26.18
 vapi-client-bindings @ file://localhost//tmp/pip-req-build-lv0gh902/lib/vapi-client-bindings/vapi_client_bindings-3.9.0-py2.py3-none-any.whl
 vapi-common-client @ file://localhost//tmp/pip-req-build-lv0gh902/lib/vapi-common-client/vapi_common_client-2.34.0-py2.py3-none-any.whl
 vapi-runtime @ file://localhost//tmp/pip-req-build-lv0gh902/lib/vapi-runtime/vapi_runtime-2.34.0-py2.py3-none-any.whl
