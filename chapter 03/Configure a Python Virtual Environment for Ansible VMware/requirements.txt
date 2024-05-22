@@ -11,7 +11,7 @@ nsx-vmc-policy-python-sdk @ file://localhost//tmp/pip-req-build-lv0gh902/lib/nsx
 pycparser==2.21
 pyOpenSSL==22.0.0
 pyvmomi==7.0.3
-requests==2.28.1
+requests==2.32.2
 six==1.16.0
 urllib3==1.26.12
 vapi-client-bindings @ file://localhost//tmp/pip-req-build-lv0gh902/lib/vapi-client-bindings/vapi_client_bindings-3.9.0-py2.py3-none-any.whl
